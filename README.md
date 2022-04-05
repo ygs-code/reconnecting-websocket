@@ -1016,5 +1016,7 @@ module.exports = ReconnectingWebSocket;
             });
 ```
 
+开源不容，希望大家给我点下star
 
+[源码分析github地址](https://github.com/qq281113270/reconnecting-websocket)
 
